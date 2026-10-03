@@ -24,8 +24,7 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfchial&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/zfchial)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfchial&count_private=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/zfchial)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfchial&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/zfchial)
 
 </div>
 
